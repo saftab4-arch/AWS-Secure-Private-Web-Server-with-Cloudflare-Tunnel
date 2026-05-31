@@ -46,6 +46,9 @@ Risks include:
 The goal of this project was to eliminate direct internet access to the server while maintaining website availability.
 
 ---
+## Architecture Diagram
+
+![AWS Private EC2 Cloudflare Tunnel Architecture](Screenshots/17-architecture-diagram-private-ec2-cloudflare-tunnel.png)
 
 # Solution Architecture
 
